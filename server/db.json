@@ -1,0 +1,71 @@
+{
+  "contacts": [
+    {
+      "fullname": "Ali javadi",
+      "photo": "https://s8.uupload.ir/files/avatar-04_vyti.png",
+      "mobile": "09121112425",
+      "email": "javadi@javadi.com",
+      "job": "programmer",
+      "group": "1",
+      "id": 2
+    },
+    {
+      "fullname": "akba",
+      "photo": "https://s8.uupload.ir/files/avatar-06_i8a2.png",
+      "mobile": "09368889985",
+      "email": "akbar@latifi.ir",
+      "job": "programmer and teacher",
+      "group": "1",
+      "id": 3
+    },
+    {
+      "fullname": "mohammad kazemi",
+      "photo": "https://s8.uupload.ir/files/avatar-08_kumd.png",
+      "mobile": "09368789658",
+      "email": "mohammad@kazemi.ir",
+      "job": "Programmer",
+      "group": "1",
+      "id": 5
+    },
+    {
+      "fullname": "mohammad ghari",
+      "photo": "https://s8.uupload.ir/files/avatar-01_61ir.png",
+      "mobile": "09093698545",
+      "email": "mohammad@ghari.com",
+      "job": "Programmer",
+      "group": "1",
+      "id": 6
+    },
+    {
+      "fullname": "ali sobhani",
+      "mobile": "091254789874",
+      "photo": "https://s8.uupload.ir/files/avatar-10_ms1g.png",
+      "email": "mahdi@sobhani.com",
+      "job": "Instructor",
+      "group": "2",
+      "id": 7
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Relatives"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Familiar"
+    }
+  ]
+}
