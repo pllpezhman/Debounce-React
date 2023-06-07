@@ -96,7 +96,7 @@ const EditContact = () => {
         toast.success("Contact updated successfully!");
         setTimeout(() => {
           navigate("/contacts");
-        }, 3000);EA
+        }, 3000);
       }
     } catch (err) {
       console.log(err);
